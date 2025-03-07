@@ -1,0 +1,1 @@
+To display a file with line numbers: The simplest use of the nl command is to number all non-empty lines in a file. 2. To number all lines (including empty lines also): To include empty lines in the numbering, use the -b a option: 3. Count multiple, consecutive, non-empty lines as one:
